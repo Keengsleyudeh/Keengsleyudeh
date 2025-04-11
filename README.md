@@ -1,45 +1,48 @@
-<h1>Hi, I'm Kingsley! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1 align="center">Hi 👋, I'm Kingsley Udeh</h1>
+<h3 align="center">A passionate Frontend Developer specializing in TypeScript, React.js and other Modern Web Technologies</h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Keengsleyudeh&label=Profile%20views&color=0e75b6&style=flat" alt="Keengsleyudeh" /> 
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Keengsleyudeh" alt="Keengsleyudeh" />
+</a>
+</p>
 
+### About Me:
 
-<h2> 🤳 Connect with me:</h2>
+- 💼 Contributing to enterprise projects at **Ceed Venture Studio**
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🌱 I'm experienced with **TypeScript, React, SCSS, and Modern Frontend Architecture**
 
-[twitter]: https://twitter.com/udehkeengsley
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/kingsleyudeh21
+- 👨‍💻 My portfolio is available at [kingsleyportfolio](https://kingsleywebdev.vercel.app)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **TypeScript, React, Frontend Development, SCSS, and Web Performance**
 
-Here are some ideas to get you started:
+### Recent Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈️ **Toucan Aviation** - Frontend Solutions for Aviation Industry
+- 🏥 **i-clinic** - Healthcare Management System
+- 📊 **Tego for Business** - Enterprise Business Solutions
+
+### Languages and Tools:
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+### GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keengsleyudeh&show_icons=true&locale=en&layout=compact" alt="Keengsleyudeh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Keengsleyudeh&show_icons=true&locale=en" alt="Keengsleyudeh" /></p>
+
+⚡ Fun fact: **Constantly pushing the boundaries of frontend development with creative solutions**
